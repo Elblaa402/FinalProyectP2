@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinica.Application", "Clinica.Application\Clinica.Application.csproj", "{0F4A896D-EF7B-4BE7-9134-09DA57E12779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinica.Domain", "Clinica.Domain\Clinica.Domain.csproj", "{5CC7442E-5989-483D-A206-3D4E192E35C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4A896D-EF7B-4BE7-9134-09DA57E12779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4A896D-EF7B-4BE7-9134-09DA57E12779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4A896D-EF7B-4BE7-9134-09DA57E12779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4A896D-EF7B-4BE7-9134-09DA57E12779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC7442E-5989-483D-A206-3D4E192E35C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC7442E-5989-483D-A206-3D4E192E35C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC7442E-5989-483D-A206-3D4E192E35C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC7442E-5989-483D-A206-3D4E192E35C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD438943-4C29-4145-B191-BF5FE5659496}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+## Build results
+bin/
+obj/
+out/
+
+## NuGet packages
+*.nupkg
+packages/
+
+## Logs
+*.log
+
+## Temporary files
+*.tmp
+*.temp
+
+## IDE files
+*.idea/
+*.vscode/
+
+## Cache
+*.cache
+
+## ASP.NET secrets
+secrets.json
+
+## EF Core Migrations snapshots (optional)
+*MigrationsSnapshot.cs

@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\B\\Clinica.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\exceptions\\pacienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\exceptions\\pacienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\exceptions\\citaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\exceptions\\citaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\context\\clinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\context\\clinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\repository\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\repository\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\repository\\itratamientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\repository\\itratamientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\repository\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\repository\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\repository\\iodontologorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\repository\\iodontologorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\entities\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\entities\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\entities\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\entities\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\entities\\odontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\entities\\odontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\exceptions\\tratamientoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\exceptions\\tratamientoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\exceptions\\odontologoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\exceptions\\odontologoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\models\\tratamientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\models\\tratamientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\models\\citamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\models\\citamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\models\\odontologomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\models\\odontologomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\models\\pacientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\models\\pacientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\repositories\\tratamientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\repositories\\tratamientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\repositories\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\repositories\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\repositories\\odontologorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\repositories\\odontologorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\b\\clinica.domain\\clinica.infrastructure\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF14A33-3E51-435B-B220-B9FEB36DCAA8}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|c:\\b\\clinica.domain\\clinica.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008C4A2-BA3C-45F8-94BE-897BCCF6167F}|Clinica.Domain\\Clinica.Domain.csproj|solutionrelative:clinica.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TratamientoException.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\TratamientoException.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Exceptions\\TratamientoException.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\TratamientoException.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Exceptions\\TratamientoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:01:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitaException.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\CitaException.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Exceptions\\CitaException.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\CitaException.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Exceptions\\CitaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:01:40.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OdontologoException.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\OdontologoException.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Exceptions\\OdontologoException.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\OdontologoException.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Exceptions\\OdontologoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:01:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteException.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\PacienteException.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Exceptions\\PacienteException.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Exceptions\\PacienteException.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Exceptions\\PacienteException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:01:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TratamientoModel.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\TratamientoModel.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Models\\TratamientoModel.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\TratamientoModel.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Models\\TratamientoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:00:58.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CitaModel.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\CitaModel.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Models\\CitaModel.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\CitaModel.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Models\\CitaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:00:46.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OdontologoModel.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\OdontologoModel.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Models\\OdontologoModel.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\OdontologoModel.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Models\\OdontologoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:00:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PacienteModel.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\PacienteModel.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Models\\PacienteModel.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Models\\PacienteModel.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Models\\PacienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:00:27.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TratamientoRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\TratamientoRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Repositories\\TratamientoRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\TratamientoRepository.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Repositories\\TratamientoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:59:42.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CitaRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\CitaRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Repositories\\CitaRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\CitaRepository.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Repositories\\CitaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:59:33.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OdontologoRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\OdontologoRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Repositories\\OdontologoRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\OdontologoRepository.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Repositories\\OdontologoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:59:23.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Repositories\\PacienteRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Repositories\\PacienteRepository.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Repositories\\PacienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:59:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Core\\BaseRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Core\\BaseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:58:38.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClinicaContext.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Context\\ClinicaContext.cs",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Context\\ClinicaContext.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Infrastructure\\Context\\ClinicaContext.cs",
+              "RelativeToolTip": "Clinica.Infrastructure\\Context\\ClinicaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:58:15.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITratamientoRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\ITratamientoRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Repository\\ITratamientoRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\ITratamientoRepository.cs",
+              "RelativeToolTip": "Clinica.Domain\\Repository\\ITratamientoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:51:57.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICitaRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\ICitaRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Repository\\ICitaRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\ICitaRepository.cs",
+              "RelativeToolTip": "Clinica.Domain\\Repository\\ICitaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:51:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOdontologoRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\IOdontologoRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Repository\\IOdontologoRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\IOdontologoRepository.cs",
+              "RelativeToolTip": "Clinica.Domain\\Repository\\IOdontologoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:51:39.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\IPacienteRepository.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Repository\\IPacienteRepository.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Repository\\IPacienteRepository.cs",
+              "RelativeToolTip": "Clinica.Domain\\Repository\\IPacienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:51:28.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tratamiento.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Tratamiento.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Entities\\Tratamiento.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Tratamiento.cs",
+              "RelativeToolTip": "Clinica.Domain\\Entities\\Tratamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:51:06.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Cita.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Entities\\Cita.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Cita.cs",
+              "RelativeToolTip": "Clinica.Domain\\Entities\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:50:52.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Odontologo.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Odontologo.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Entities\\Odontologo.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Odontologo.cs",
+              "RelativeToolTip": "Clinica.Domain\\Entities\\Odontologo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:50:40.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Paciente.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Entities\\Paciente.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Entities\\Paciente.cs",
+              "RelativeToolTip": "Clinica.Domain\\Entities\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:50:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Core\\Person.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Core\\Person.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Core\\Person.cs",
+              "RelativeToolTip": "Clinica.Domain\\Core\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:49:00.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "Clinica.Domain\\Core\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:48:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\Program.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\Program.cs",
+              "RelativeToolTip": "Clinica.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:47:19.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\B\\Clinica.Domain\\Clinica.Domain\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Clinica.Domain\\WeatherForecast.cs",
+              "ToolTip": "C:\\B\\Clinica.Domain\\Clinica.Domain\\WeatherForecast.cs",
+              "RelativeToolTip": "Clinica.Domain\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:47:17.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Clinica.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1243257C-C868-40E5-BCDE-23ADE7B8CF0A}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|c:\\c#\\clinica.domain\\clinica.infrastructure\\clinica.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1243257C-C868-40E5-BCDE-23ADE7B8CF0A}|Clinica.Infrastructure\\Clinica.Infrastructure.csproj|solutionrelative:clinica.infrastructure\\clinica.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clinica.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\C#\\Clinica.Domain\\Clinica.Infrastructure\\Clinica.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Clinica.Infrastructure\\Clinica.Infrastructure.csproj",
+              "ToolTip": "C:\\C#\\Clinica.Domain\\Clinica.Infrastructure\\Clinica.Infrastructure.csproj",
+              "RelativeToolTip": "Clinica.Infrastructure\\Clinica.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T04:59:56.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
